@@ -1,0 +1,53 @@
+[
+    {
+        "skills": {
+            "digitalSkills": [
+                "PHP (basic level), MySQL",
+                "HTML, CSS, JavaScript, JQuery, ReactJs(basic level)",
+                "Photoshop",
+                "GIT"
+            ],
+            "jobSkills": [
+                "good organisation skills",
+                "team work skills",
+                "ability to work under pressure according to the short deadlines",
+                "flexibility and adaptability"
+            ]
+        },
+        "experience": [
+            {
+                "title": "Front-end Developer",
+                "company":"Inside Media Comunication, Craiova (Romania)",
+                "date": "2016 - present",
+                "responsabilities":[
+                    "creating and developing of websites using HTML, Css, JQuery",
+                    "working with JIRA",
+                    "working with Mavenlink",
+                    "working with Ace Project Management software",
+                    "working with Adobe Photoshop",
+                    "working with Invision",
+                    "working with Microsoft Office package",
+                    "working with BugHerd platform for resolving bugs",
+                    "training work"
+                ],
+                "projects": [
+                     "http://www.telsonminig.com",
+                     "http://investors.medmen.com",
+                     "http://investors.ceridian.com",
+                     "http://ir.freshii.com",
+                     "https://investors.nuance.com",
+                     "and others"
+                ],
+                "attributions": [
+                    "various animations that were created with css but also with jquery",
+                    "widgets in which I put my 'fingerprint' by modifying them so as to correspond to the client's requirements",
+                    "sliders created with jquery",
+                    "various plug-ins"
+                ]
+
+            }
+        ]
+       
+        
+    }
+]
